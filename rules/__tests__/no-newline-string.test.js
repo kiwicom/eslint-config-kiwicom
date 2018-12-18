@@ -4,7 +4,6 @@ import rule from '../no-newline-string';
 
 const RuleTester = require('eslint').RuleTester;
 
-
 const ruleTester = new RuleTester({
   parserOptions: {
     ecmaVersion: 7,
