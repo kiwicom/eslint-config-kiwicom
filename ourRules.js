@@ -511,6 +511,7 @@ module.exports = {
   'react-native/no-unused-styles': ERROR,
   'react-native/sort-styles': OFF,
   'react-native/split-platform-components': OFF,
+  'react-native/no-single-element-style-arrays': ERROR,
 
   // Relay (https://github.com/relayjs/eslint-plugin-relay)
   'relay/compat-uses-vars': OFF, // we do not use Relay Compat
