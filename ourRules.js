@@ -121,6 +121,11 @@ module.exports = {
   'require-unicode-regexp': OFF,
   'vars-on-top': ERROR,
   yoda: NEXT_VERSION_ERROR,
+  'grouped-accessor-pairs': NEXT_VERSION_ERROR,
+  'no-constructor-return': NEXT_VERSION_ERROR,
+  'no-dupe-else-if': NEXT_VERSION_ERROR,
+  'no-setter-return': NEXT_VERSION_ERROR,
+  'prefer-exponentiation-operator': NEXT_VERSION_ERROR,
 
   // Strict Mode (http://eslint.org/docs/rules/#strict-mode)
   strict: WARN,
